@@ -1,0 +1,50 @@
+{
+  "header": "Многое Происходит, Мы Ведем об Этом Блог.",
+  "posts": [
+    {
+      "image": {
+        "src": "./assets/img/RectangleB.svg",
+        "alt": "Blog post 1"
+      },
+      "date": "Сентябрь 26, 2021",
+      "title": "GPT-3 и Openai – это будущее. Давайте разберемся, как это?",
+      "readMoreLink": "#!"
+    },
+    {
+      "image": {
+        "src": "./assets/img/Rectangle1.svg",
+        "alt": "Blog post 2"
+      },
+      "date": "Сентябрь 26, 2021",
+      "title": "GPT-3 и Openai – это будущее. Давайте разберемся, как это?",
+      "readMoreLink": "#!"
+    },
+    {
+      "image": {
+        "src": "./assets/img/Rectangle2.svg",
+        "alt": "Blog post 3"
+      },
+      "date": "Сентябрь 26, 2021",
+      "title": "GPT-3 и Openai – это будущее. Давайте разберемся, как это?",
+      "readMoreLink": "#!"
+    },
+    {
+      "image": {
+        "src": "./assets/img/Rectangle3.svg",
+        "alt": "Blog post 4"
+      },
+      "date": "Сентябрь 26, 2021",
+      "title": "GPT-3 и Openai – это будущее. Давайте разберемся, как это?",
+      "readMoreLink": "#!"
+    },
+    {
+      "image": {
+        "src": "./assets/img/Rectangle4.svg",
+        "alt": "Blog post 5"
+      },
+      "date": "Сентябрь 26, 2021",
+      "title": "GPT-3 и Openai – это будущее. Давайте разберемся, как это?",
+      "readMoreLink": "#!"
+    }
+  ]
+}
